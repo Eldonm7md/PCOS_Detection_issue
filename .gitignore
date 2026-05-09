@@ -1,0 +1,11 @@
+.conda/
+PCOS.zip
+PCOS_Detection_issue/
+PCOS_Detection_issue-450DA/
+data/PCOS/*
+!data/PCOS/.gitkeep
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.streamlit/secrets.toml

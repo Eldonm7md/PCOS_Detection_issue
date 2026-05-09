@@ -1,0 +1,44 @@
+01_data_understanding.ipynb
+- قراءة الصور
+- بناء dataframe
+- فحص العدد
+- فحص missing / duplicates / corrupted images
+- class distribution
+- image size distribution
+- عرض عينات من infected و noninfected
+
+02_preprocessing.ipynb
+- stratified train/val/test split
+- resize إلى 224x224 أو 128x128
+- rescale 1/255
+- augmentation للـ train فقط
+- class_weight لحل imbalance
+
+03_model_training.ipynb
+- CNN from scratch
+- BatchNormalization
+- Dropout
+- L2 regularization
+- Adam optimizer
+- BinaryCrossentropy
+- EarlyStopping
+- ReduceLROnPlateau
+- ModelCheckpoint
+
+04_evaluation.ipynb
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- AUC
+- Confusion matrix
+- Training/validation loss curve
+- Training/validation accuracy curve
+- Sample predictions
+- Error analysis
+
+streamlit_app.py
+- رفع صورة
+- preprocessing
+- prediction
+- عرض النتيجة والثقة
