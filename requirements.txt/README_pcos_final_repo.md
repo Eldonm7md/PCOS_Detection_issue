@@ -104,7 +104,6 @@ DL project/
 │   ├── best_pcos_cnn_model_v2.keras
 │   ├── final_pcos_cnn_model.keras
 │   ├── v3_regularized_cnn_final.keras
-│   └── v3_regularized_cnn_finalkeras
 │
 ├── PCOS_notebooks/
 │   ├── data_understanding.ipynb
