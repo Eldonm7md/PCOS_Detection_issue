@@ -521,11 +521,11 @@ Possible future improvements:
 
 | Name | Role |
 |---|---|
-| Emam & Mohammad | Data Understanding and Visualization |
-| Emam & Mohammad | Preprocessing and Data Cleaning |
-| Mohammad | | Streamlit App |
-| Student 4 | Presentation & Video |
-| Student 5 | Report |
+| Emam & Mohammad Noor | Data Understanding and Visualization |
+| Emam & Mohammad Noor | Preprocessing and Data Cleaning |
+| Abdulrahman | | Streamlit App |
+| Mohammad hijazi| Presentation & Video |
+| Mohammad Imad | Report |
 
 ---
 
