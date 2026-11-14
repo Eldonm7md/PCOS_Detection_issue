@@ -521,9 +521,9 @@ Possible future improvements:
 
 | Name | Role |
 |---|---|
-| Student 1 | Data Understanding and Visualization |
-| Student 2 | Preprocessing and Data Cleaning |
-| Student 3 | | Streamlit App |
+| Emam & Mohammad | Data Understanding and Visualization |
+| Emam & Mohammad | Preprocessing and Data Cleaning |
+| Mohammad | | Streamlit App |
 | Student 4 | Presentation & Video |
 | Student 5 | Report |
 
